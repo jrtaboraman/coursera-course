@@ -18,4 +18,7 @@
     "url": "https://github.com/jrtaboraman/coursera-course/issues"
   },
   "homepage": "https://github.com/jrtaboraman/coursera-course#readme",
- 
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
